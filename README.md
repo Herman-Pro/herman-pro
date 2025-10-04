@@ -15,4 +15,5 @@ HTML | CSS | JavaScript | WordPress | Git/GitHub
 ## 📫 Me contacter
 - [LinkedIn](https://www.linkedin.com/in/tonlinkedin)  
 - [Fiverr](https://fr.fiverr.com/s/1qgGmKe)  
+- [Twitter](https://x.com/EclipSmile)  
 
