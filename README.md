@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Herman  
 
-<!--
-**Herman-Pro/herman-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur web front-end en formation continue  
+✨ Passionné par la création de sites modernes et responsives  
+🌱 Actuellement en train de renforcer mes compétences avec FreeCodeCamp 
 
-Here are some ideas to get you started:
+## 🚀 Mes projets phares
+- [Fitnex Coach](https://herman-pro.github.io/Fitnex-coach/) - Site vitrine de coaching sportif  
+- [KonoBlog](https://herman-pro.github.io/KonoBlog/) - Blog statique simple et responsive  
+- [Photo Gallery](https://herman-pro.github.io/Photo-Gallery/) - Galerie photo en HTML/CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Compétences
+HTML | CSS | JavaScript | WordPress | Git/GitHub  
+
+## 📫 Me contacter
+- [LinkedIn](https://www.linkedin.com/in/tonlinkedin)  
+- [Fiverr](https://fr.fiverr.com/s/1qgGmKe)  
+
