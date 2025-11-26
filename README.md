@@ -5,12 +5,13 @@
 🌱 Actuellement en train de renforcer mes compétences avec FreeCodeCamp 
 
 ## 🚀 Mes projets phares
-- [Fitnex Coach](https://herman-pro.github.io/Fitnex-coach/) - Site vitrine de coaching sportif  
+- [portfolio-herman](https://herman-pro.github.io/portfolio-herman/) - Portifolio personnel dynamique simple, moderne et responsive 
 - [KonoBlog](https://herman-pro.github.io/KonoBlog/) - Blog statique simple et responsive  
+- [Fitnex Coach](https://herman-pro.github.io/Fitnex-coach/) - Site vitrine de coaching sportif  
 - [Photo Gallery](https://herman-pro.github.io/Photo-Gallery/) - Galerie photo en HTML/CSS  
 
 ## 🛠 Compétences
-HTML | CSS | JavaScript | WordPress | Git/GitHub  
+HTML | CSS | JavaScript | WordPress | Git/GitHub | Boostrap 
 
 ## 📫 Me contacter
 - [LinkedIn](https://www.linkedin.com/in/tonlinkedin)  
