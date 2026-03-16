@@ -5,6 +5,7 @@
 🌱 Actuellement en train de renforcer mes compétences avec FreeCodeCamp 
 
 ## 🚀 Mes projets phares
+- [KODIA Digital](https://kodia-digital.netlify.app/) - Site vitrine de l'agence web béninoise KODIA 
 - [portfolio-herman](https://herman-pro.github.io/portfolio-herman/) - Portifolio personnel dynamique simple, moderne et responsive 
 - [KonoBlog](https://herman-pro.github.io/KonoBlog/) - Blog statique simple et responsive  
 - [Fitnex Coach](https://herman-pro.github.io/Fitnex-coach/) - Site vitrine de coaching sportif  
