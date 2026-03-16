@@ -8,8 +8,8 @@
 - [KODIA Digital](https://kodia-digital.netlify.app/) - Site vitrine de l'agence web béninoise KODIA 
 - [portfolio-herman](https://herman-pro.github.io/portfolio-herman/) - Portifolio personnel dynamique simple, moderne et responsive 
 - [KonoBlog](https://herman-pro.github.io/KonoBlog/) - Blog statique simple et responsive  
-- [Fitnex Coach](https://herman-pro.github.io/Fitnex-coach/) - Site vitrine de coaching sportif  
 - [Photo Gallery](https://herman-pro.github.io/Photo-Gallery/) - Galerie photo en HTML/CSS  
+- [Fitnex Coach](https://herman-pro.github.io/Fitnex-coach/) - Site vitrine de coaching sportif  
 
 ## 🛠 Compétences
 HTML | CSS | JavaScript | WordPress | Git/GitHub | Boostrap 
