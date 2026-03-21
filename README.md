@@ -7,7 +7,7 @@
 ## 🚀 Mes projets phares
 - [KODIA Digital](https://kodia-digital.netlify.app/) - Site vitrine de l'agence web béninoise KODIA 
 - [portfolio-herman](https://herman-tossavi.netlify.app/) - Portifolio personnel dynamique simple, moderne et responsive 
-- [KonoBlog](https://herman-pro.github.io/KonoBlog/) - Blog statique simple et responsive  
+- [KonoBlog](https://konoblog.netlify.app/) - Blog statique simple et responsive  
 - [Photo Gallery](https://herman-pro.github.io/Photo-Gallery/) - Galerie photo en HTML/CSS  
 - [Fitnex Coach](https://herman-pro.github.io/Fitnex-coach/) - Site vitrine de coaching sportif  
 
