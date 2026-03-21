@@ -15,7 +15,7 @@
 HTML | CSS | JavaScript | WordPress | Git/GitHub | Boostrap 
 
 ## 📫 Me contacter
-- [LinkedIn](https://www.linkedin.com/in/tonlinkedin)  
+- [LinkedIn](https://www.linkedin.com/in/herman-tossavi-201923279)  
 - [Fiverr](https://fr.fiverr.com/s/1qgGmKe)  
 - [Twitter](https://x.com/EclipSmile)  
 
