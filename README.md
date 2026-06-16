@@ -5,12 +5,11 @@
 🌱 Actuellement en train de renforcer mes compétences avec FreeCodeCamp 
 
 ## 🚀 Mes projets phares
+- [Marie-Laurent]() - Site Portfolio  
 - [Alade Shop](https://alade-shop.netlify.app/) - landing page électronique premium  
 - [KODIA Digital](https://kodia-digital.netlify.app/) - Site vitrine de l'agence web béninoise KODIA 
 - [portfolio-herman](https://herman-tossavi.netlify.app/) - Portifolio personnel dynamique simple, moderne et responsive 
-- [KonoBlog](https://konoblog.netlify.app/) - Blog statique simple et responsive  
-- [Photo Gallery](https://herman-pro.github.io/Photo-Gallery/) - Galerie photo en HTML/CSS  
-- [Fitnex Coach](https://herman-pro.github.io/Fitnex-coach/) - Site vitrine de coaching sportif  
+- [KonoBlog](https://konoblog.netlify.app/) - Blog statique simple et responsive    
 
 ## 🛠 Compétences
 HTML | CSS | JavaScript | WordPress | Git/GitHub | Boostrap 
